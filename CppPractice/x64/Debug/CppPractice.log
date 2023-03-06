@@ -1,0 +1,3 @@
+﻿  ch17ex11.cpp
+C:\Users\Isabella Cheong\source\repos\CppPractice\CppPractice\ch17ex11.cpp(12,16): warning C4305: 'argument': truncation from 'double' to 'float'
+  CppPractice.vcxproj -> C:\Users\Isabella Cheong\source\repos\CppPractice\x64\Debug\CppPractice.exe
