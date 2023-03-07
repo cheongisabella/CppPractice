@@ -36,6 +36,18 @@
     <ClCompile Include="DoubleSubscriptedArray.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="ch19ex10.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Account.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="SavingsAccount19.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="CheckingAccount.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Rectangle.h">
@@ -45,6 +57,15 @@
       <Filter>Source Files</Filter>
     </ClInclude>
     <ClInclude Include="DoubleSubscriptedArray.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Account.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="SavingsAccount19.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="CheckingAccount.h">
       <Filter>Source Files</Filter>
     </ClInclude>
   </ItemGroup>

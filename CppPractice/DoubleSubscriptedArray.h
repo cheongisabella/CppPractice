@@ -1,4 +1,4 @@
-#ifndef TEST_CH18EX7
+#ifdef TEST_CH18EX7
 #pragma once
 #ifndef ARRAY_H
 #define ARRAY_H

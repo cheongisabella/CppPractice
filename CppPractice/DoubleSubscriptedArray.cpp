@@ -1,4 +1,4 @@
-#ifndef TEST_CH18EX7
+#ifdef TEST_CH18EX7
 #include "DoubleSubscriptedArray.h"
 #include <stdexcept>
 #include <iostream>
