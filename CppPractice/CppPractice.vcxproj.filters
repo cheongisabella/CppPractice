@@ -30,7 +30,7 @@
     <ClCompile Include="ch17ex20.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="ch18ex17.cpp">
+    <ClCompile Include="ch18ex7.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
     <ClCompile Include="DoubleSubscriptedArray.cpp">

@@ -130,7 +130,7 @@
     <ClCompile Include="ch16ex15.cpp" />
     <ClCompile Include="ch17ex11.cpp" />
     <ClCompile Include="ch17ex20.cpp" />
-    <ClCompile Include="ch18ex17.cpp" />
+    <ClCompile Include="ch18ex7.cpp" />
     <ClCompile Include="DoubleSubscriptedArray.cpp" />
     <ClCompile Include="Rectangle.cpp" />
     <ClCompile Include="SavingsAccount.cpp" />
